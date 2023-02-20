@@ -141,6 +141,11 @@ body {
   font-size: 1.6rem;
 }
 
+.btn-primary {
+  font-family: "Ruso";
+  border: #000000;
+}
+
 .main-title {
   text-transform: uppercase;
   margin-top: 1.5em;

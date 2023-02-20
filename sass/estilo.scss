@@ -130,10 +130,17 @@ body {
 	justify-content: center;
 	height: 100%;
 	font-size: 1.6rem;
+	
+}
+
+.btn-primary {
+	font-family: $font-family_3;
+	border: #000000;
 }
 .main-title {
 	text-transform: uppercase;
 	margin-top: 1.5em;
+	
 }
 #donde {
 	padding: 50px 0;
